@@ -1,0 +1,12 @@
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\bin\Debug\net6.0\NorhtwindVbNetApi.deps.json
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\bin\Debug\net6.0\NorhtwindVbNetApi.dll
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\bin\Debug\net6.0\NorhtwindVbNetApi.pdb
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.vbproj.AssemblyReference.cache
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.AssemblyInfoInputs.cache
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.AssemblyInfo.vb
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.vbproj.CoreCompileInputs.cache
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.dll
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\refint\NorhtwindVbNetApi.dll
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\NorhtwindVbNetApi.pdb
+C:\bootcamp\Batch20\Batch20Solution\NorhtwindVbNetApi\obj\Debug\net6.0\ref\NorhtwindVbNetApi.dll
